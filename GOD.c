@@ -8,5 +8,7 @@ int main()
   printf("God = time");
   //2nd branch test
   printf("Does god have physical form?");
+  //pulling technique
+  printf("This is just a excuse to question the existense of god.");
   return 0;
 }
